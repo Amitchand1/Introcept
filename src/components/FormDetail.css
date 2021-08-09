@@ -1,0 +1,18 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(230, 230, 230);
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 5em;
+  gap: 1em;
+}
+
+.button-submit {
+  margin-top: 2em;
+}
+
+.error {
+  display: flex;
+  justify-content: center;
+}

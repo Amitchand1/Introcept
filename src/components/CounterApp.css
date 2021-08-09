@@ -1,0 +1,13 @@
+.counter {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 30%;
+  margin-top: 10em;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  /* box-shadow: 0 2px; */
+  gap: 0.5em;
+
+  /* border: 3px solid rgb(20, 19, 19); */
+}
